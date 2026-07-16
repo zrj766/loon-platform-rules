@@ -1,0 +1,9 @@
+# Loon rule - Krak app
+# Updated: 2026-07-16
+# Includes Kraken infrastructure because Krak is a Kraken service.
+DOMAIN-SUFFIX,krak.app
+DOMAIN-SUFFIX,kraken.com
+DOMAIN-SUFFIX,kraken.onl
+DOMAIN-SUFFIX,cryptowat.ch
+DOMAIN,kraken.app.link
+
