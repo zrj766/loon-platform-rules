@@ -1,0 +1,8 @@
+# Loon rule - Wise / TransferWise
+# Updated: 2026-07-16
+DOMAIN-SUFFIX,wise.com
+DOMAIN-SUFFIX,transferwise.com
+DOMAIN-SUFFIX,wise-sandbox.com
+DOMAIN-SUFFIX,wise.tech
+DOMAIN-SUFFIX,transferwise.tech
+
